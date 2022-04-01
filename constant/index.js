@@ -1,0 +1,4 @@
+export const API_BASE_URL = 'http://65.1.42.208:8888/';
+// export const FRONT_END_URL = 'http://localhost:3000';
+// export const API_BASE_URL = 'http://localhost:8000/';
+export const token = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjc0Mzg2MDQxLCJqdGkiOiI5MzU0MGM3ZTcxY2U0MzUyYTIyY2NkYTUxNGU2YzQ3YSIsInVzZXJfaWQiOjE0NywibW9iaWxlX251bWJlciI6IjkzMTA5NjY3MDciLCJmaXJzdF9uYW1lIjoiR3lhbmVuZHJhIiwibGFuZ3VhZ2VfcHJlZmVyZW5jZSI6IkVOR0xJU0giLCJ1bmlxdWVfaWQiOiJESmpSUHhIN2V6IiwiZGVmYXVsdF91cmwiOiIvdXNlci1tYW5hZ2VtZW50L3VzZXJzIn0.0SxuCp8uk5lKDegmAUIv4HzEoP0PCQ2ZgYI74pVen38';

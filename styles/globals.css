@@ -14,3 +14,212 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.totoko-header{
+  color : white;
+  background-color: #2A5699;
+  height : 242px;
+  width : 100% ;
+}
+
+.header-text {
+  position: absolute;
+  left: 38.93%;
+  right: 34.93%;
+  top: 9.28%;
+  bottom: 86.13%;
+
+  font-family: 'Segoe UI';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 64px;
+
+  color: #F4F4F4;
+
+}
+.header-text2 {
+  position: absolute;
+  left: 41.93%;
+  right: 34.93%;
+  top: 9.28%;
+  bottom: 86.13%;
+
+  font-family: 'Segoe UI';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 64px;
+
+  color: #F4F4F4;
+
+}
+
+.header-text-sub{
+  position: absolute;
+  left: 35.93%;
+  right: 34.93%;
+  top: 14.28%;
+  bottom: 82.13%;
+  margin-top: 25px;
+  font-family: 'Segoe UI';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 26px;
+  line-height: 38px;
+
+  color: #F4F4F4;
+}
+
+.page-loader .modal-content {
+  background: none;
+  text-align: center;
+  border: none;
+  top: 400px;
+}
+
+
+
+.att-wrap {
+  display: flex;
+  overflow-x: auto;
+  min-width: 100%;
+}
+
+.att {
+  width: 100%;
+  max-width: 180px;
+  margin-right: 40px;
+  cursor: pointer;
+  margin-bottom: 30px;
+}
+
+.att1 {
+  width: 100%;
+  max-width: 260px;
+  margin-right: 40px;
+  cursor: pointer;
+  margin-bottom: 30px;
+}
+
+.att-title {
+  margin-top: 5px;
+  font-size: 12px;
+  text-align: center;
+  word-break: break-word;
+}
+
+.att-des {
+  color: #8e9296;
+  font-size: 14px;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.att-option-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  vertical-align: middle;
+  height: 100%;
+}
+
+.att-option {
+  cursor: pointer;
+  height: 91px;
+  width: 115px;
+  border: 2px dashed #c5d2d8;
+  border-radius: 6px;
+  font-size: 15px;
+  margin-bottom: 30px;
+  margin-right: 20px;
+}
+
+.att-option-wrap>img {
+  margin-bottom: 10px;
+}
+
+.attachments .att-option {
+  margin-right: 20px;
+}
+
+.attachments .att-option:last-child {
+  margin-right: 0px;
+}
+
+.flex-wrap {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.comment-wrap {
+  display: flex;
+  margin-bottom: 30px;
+  margin-right: 20px;
+}
+
+.pills {
+  border-radius: 50px !important;
+}
+
+.pFileName {
+  color: blue;
+  flex-wrap: wrap;
+  max-width: 120px;
+  font-size: medium;
+}
+
+
+.cancel-button {
+  position: absolute;
+  left: 18.26%;
+  right: 59.51%;
+  top: 84.47%;
+  bottom: 7.71%;
+  color : black!important;
+  background-color: white!important;
+}
+
+.scan-button{
+  position: absolute;
+  left: 55.69%;
+  right: 22.08%;
+  top: 84.57%;
+  bottom: 7.62%;
+  color : white;
+  background: #2A5699!important;
+}
+
+.back-button {
+  position: absolute;
+  align-items: center;
+  width: 200px;
+  margin-left: -100px;
+  top: 74.47%;
+  bottom: 17.71%;
+}
+
+.add-product-page{
+  color : white;
+  background-color: #2A5699;
+  background: #2A5699;
+  height : 100vh;
+  width : 100vw ;
+}
+
+.add-product-middle-div {
+  position: absolute;
+  left: 12.85%;
+  right: 12.78%;
+  /* top: 35%; */
+  justify-content: center;
+  bottom: 44.92%;
+  font-family: 'Segoe UI';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 65px;
+  text-align: center;
+  color: #F4F4F4;
+}
