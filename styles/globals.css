@@ -24,7 +24,7 @@ a {
 
 .header-text {
   position: absolute;
-  left: 38.93%;
+  left: auto;
   right: 34.93%;
   top: 9.28%;
   bottom: 86.13%;
@@ -40,8 +40,8 @@ a {
 }
 .header-text2 {
   position: absolute;
-  left: 41.93%;
-  right: 34.93%;
+  left: auto;
+  right: 37.93%;
   top: 9.28%;
   bottom: 86.13%;
 
@@ -57,9 +57,9 @@ a {
 
 .header-text-sub{
   position: absolute;
-  left: 35.93%;
-  right: 34.93%;
   top: 14.28%;
+  left: 40%;
+  right: auto;
   bottom: 82.13%;
   margin-top: 25px;
   font-family: 'Segoe UI';
@@ -67,7 +67,6 @@ a {
   font-weight: 500;
   font-size: 26px;
   line-height: 38px;
-
   color: #F4F4F4;
 }
 

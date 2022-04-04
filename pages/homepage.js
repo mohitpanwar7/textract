@@ -84,7 +84,7 @@ class Totoko extends React.Component{
         <div className='header-text'>
           Upload Documents
         </div>
-        <div className='header-text-sub' >
+        <div className='header-text-sub text-center' >
           Store your Bills for Tension free Warranty Support
         </div>
       </div>
